@@ -1,0 +1,19 @@
+# Core Pytorch & Vision
+torch
+torchvision
+
+# Model Libraries
+transformers
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+
+# Image Processing & Utilities
+pillow
+numpy
+protobuf
+
+# Vietnamese Tokenizer
+pyvi
+gradio>=4.0.0
